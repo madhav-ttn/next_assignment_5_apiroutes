@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "subject": "Mathematics",
+      "email": "john.smith@school.com",
+      "phone": "+1234567890",
+      "hire_date": "2015-08-10"
+    },
+    {
+      "id": 2,
+      "name": "Emily Davis",
+      "subject": "Science",
+      "email": "emily.davis@school.com",
+      "phone": "+1234567891",
+      "hire_date": "2017-04-15"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "subject": "English",
+      "email": "michael.brown@school.com",
+      "phone": "+1234567892",
+      "hire_date": "2016-06-20"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Wilson",
+      "subject": "History",
+      "email": "sarah.wilson@school.com",
+      "phone": "+1234567893",
+      "hire_date": "2018-09-25"
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "subject": "Geography",
+      "email": "david.lee@school.com",
+      "phone": "+1234567894",
+      "hire_date": "2014-05-12"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Taylor",
+      "subject": "Chemistry",
+      "email": "olivia.taylor@school.com",
+      "phone": "+1234567895",
+      "hire_date": "2019-02-22"
+    },
+    {
+      "id": 7,
+      "name": "James Anderson",
+      "subject": "Physical Education",
+      "email": "james.anderson@school.com",
+      "phone": "+1234567896",
+      "hire_date": "2015-11-30"
+    },
+    {
+      "id": 8,
+      "name": "Isabella Thomas",
+      "subject": "Art",
+      "email": "isabella.thomas@school.com",
+      "phone": "+1234567897",
+      "hire_date": "2020-03-18"
+    },
+    {
+      "id": 9,
+      "name": "William Jackson",
+      "subject": "Music",
+      "email": "william.jackson@school.com",
+      "phone": "+1234567898",
+      "hire_date": "2013-12-01"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Harris",
+      "subject": "French",
+      "email": "sophia.harris@school.com",
+      "phone": "+1234567899",
+      "hire_date": "2021-07-05"
+    }
+  ]
+  
